@@ -1,2 +1,175 @@
-# Fumer88.github.io
-my site
+# Никита Морозов
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Сайты под ключ</title>
+</head>
+
+<body>
+ 
+  <header>
+   <nav>
+    <div class="logo">Сайты под ключ</div>
+   <div class="menu"><ul>
+       <li>О нас</li>
+       <li>Услуги</li>
+       <li>Кейсы</li>
+       <li>Прайс</li>
+       <li>Отзывы</li>
+       <li>Контакты</li>
+   </ul></div>
+   </nav>
+    </header>
+   
+    <div class="main"><div class="title__container">
+        <h1>Приветсвуем!<br>Сайты под ключ </h1>
+        <h4>Фулл стек веб-разработка туда сюда</h4>
+       <div class="mainbutoms">
+         <input type="submit" value="О нас">
+        <input type="submit" value="Кейсы">
+    </div></div></div>
+    
+    <div class="we"><div class="title__container">
+        <h2>О нас</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi provident architecto facere, officia nostrum soluta dolore aut quas quae ipsum porro cum quis saepe mollitia nisi recusandae error itaque at ipsam debitis ratione dolor deleniti eos atque. Beatae magnam eligendi similique obcaecati velit, voluptatum nihil voluptas eius repellat. Possimus, tempore eaque iure inventore eos repellat voluptatem temporibus modi praesentium. Velit earum laudantium error provident, placeat quos praesentium delectus distinctio commodi soluta unde, necessitatibus, amet saepe aut corrupti quasi. Fuga doloremque nam, itaque adipisci tempora rerum at laborum nesciunt dicta suscipit nisi culpa. Ea fuga eaque officiis, repudiandae amet possimus deserunt, perferendis dolorum tenetur, modi quisquam dolores minima nihil nobis cum nam nisi quibusdam tempora vitae dolore fugit neque velit eius.</p>
+        <div class="mainbutoms">
+        <input type="submit" value="Скачать резюме">
+    </div></div></div>
+    
+    <div class="skills"><div class="skills__container">
+        <h2>Что я умею</h2>
+        
+        <img src="img/skills/logowebdesign.png" alt="Ой картинка пропала">
+        <h4>Веб-дизайн</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius pariatur totam quod quae, molestias beatae consequuntur suscipit assumenda tempore minus.</p>
+        
+        <img src="img/skills/logodeveloper.png" alt="Ой картинка пропала">
+        <h4>Разработка
+        </h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa voluptate saepe corrupti natus et sit, exercitationem eligendi perspiciatis delectus laudantium!</p>
+        
+        <img src="img/skills/logoseo.png" alt="Ой картинка пропала">
+        <h4>SEO оптимизация
+        </h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat itaque tenetur commodi nobis, illum optio impedit magni, rerum perferendis repudiandae.</p>
+       
+        <img src="img/skills/logomarketing.png" alt="Ой картинка пропала">
+        <h4>Маркетинг
+        </h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur, sapiente labore et doloribus doloremque dolore nam recusandae at voluptatem harum.</p>
+        
+    </div></div>
+    
+    <div class="case"><div class="case__container">
+        <h2>Кейсы</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat in illum voluptatem ipsam ullam eius, rem dolore. Ut cupiditate est natus quis reiciendis odit nostrum.</p>
+        <img src="img/case/examplesite.png" alt="Ой картинка пропала">
+        
+        <h3>CLIENT</h3>
+        <p>Lorem ipsum dolor.</p>
+        
+        <h3>WEBSITE</h3>
+        <p>https://www.site.com</p>
+        <input type="submit" value="VISIT LIVE SITE">
+        
+        <h3>Название проекта</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, minus dicta esse. A cum quia laudantium eveniet nostrum ipsam dolor amet, voluptates! Odio repellendus quia soluta, dolorum enim sint reprehenderit accusantium earum! Blanditiis maxime, recusandae et repellendus quaerat ut quod doloribus sequi, odit minima earum! Sapiente beatae officiis ea molestiae.</p>
+        
+        
+    </div></div>
+    
+    <div class="costs"><div class="calculator">
+        <h2>Расчет стоимости</h2>
+        <h3>ТИП САЙТА</h3>
+        <select name="typesite" id="type">
+           <option>Выберите из списка</option>
+            <option value="type1">Лендинг</option>
+            <option value="type2">Визитка</option>
+            <option value="type3">Интернет-магазин</option>
+            </select>
+            <h3>ДИЗАЙН</h3>
+            <select name="design" id="des">
+              <option>Выберите из списка</option>
+               <option value="dsg1">Шаблонный</option> 
+               <option value="dsg2">Дизайнерский</option> 
+               <option value="dsg3">Готовый от заказчика</option> 
+            </select>
+            <h3>АДАПТИВНОСТЬ</h3>
+            <select name="adaptive" id="adp">
+               <option>Выберите из списка</option>
+                <option value="ad1">Да</option>
+                <option value="ad1">Нет</option>
+            </select>
+            
+          <table>
+              <tr><td>Сроки</td>
+                  <td>0</td></tr>
+            
+            <tr><td>Стоимость</td>
+            <td>0</td></tr>
+          </table>  
+
+
+    </div></div>
+    
+    <div class="stats"><div class="stats__container">
+        <h2>НЕМНОГО СТАТИСТИКИ</h2>
+        
+        <img src="img/stats/smile.png" alt="">
+        <h3>120</h3>
+        <p>счастливых клиентов</p>
+        
+        <img src="img/stats/hours.png" alt="">
+        <h3>4,600</h3>
+        <p>часов работы</p>
+        
+        <img src="img/stats/chekbox.png" alt="">
+        <h3>340</h3>
+        <p>проектов завершено</p>
+        
+        <img src="img/stats/cup.png" alt="">
+        <h3>23</h3>
+        <p>наград получение</p>
+    </div></div>
+    
+    <div class="reviews"><div class="class__container">
+        <h2>ОТЗЫВЫ</h2>
+        <img src="img/reviews/photoclients.png" alt="">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit eius perferendis eaque modi, inventore aliquid. Saepe dolorum maxime assumenda, eum expedita animi, quae, sed veniam reiciendis libero deserunt ad aspernatur dolores, nisi pariatur. Eligendi saepe exercitationem velit amet, necessitatibus, recusandae?</p>
+        <p>Михаил,г Москва</p>
+        <input type="radio" name="text_input" value="1">
+        <input type="radio" name="text_input" value="2">
+        <input type="radio" name="text_input" value="2">
+    </div></div>
+    
+    <div class="contacts"><div class="contacts__container">
+        <h2>КОНТАКТЫ</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, eveniet.</p>
+        
+        <img src="img/contacts/geo.png" alt="">
+        <p>Lorem ipsum dolor sit amet.</p>
+        
+        <img src="img/contacts/mail.png" alt="">
+        <p>asdfafd@mail.ru</p>
+        
+        <img src="img/contacts/phone.png" alt="">
+        <p>8(999) 999-99-99</p>
+        
+        <h3>Форма обратной связи</h3>
+        <form action="#">
+            <input type="text" name="text_name" placeholder="Введите имя">
+            <input type="text" name="text_secondname" placeholder="Введите фамилию">
+            <textarea name="message" id="1" cols="50" rows="10"> 
+            </textarea>
+            <input type="submit" value="Заказать звонок">
+        </form>
+        
+        <img src="img/contacts/facebook.png" alt="">
+        <img src="img/contacts/twitter.png" alt="">
+        <img src="img/contacts/instagram.png" alt="">
+    </div></div>
+    
+    <footer>Copyright © 2021 Design by Web</footer>
+</body>
+</html>
